@@ -1,7 +1,7 @@
 <nav id="menu" class="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a href="#" class="flex items-center">
-            <img src="./imagenes/logo-iestp-motupe.png" class="h-8 mr-3" alt="IESTP Motupe Logo"/>
+            <img src="../imagenes/logo-iestp-motupe.png" class="h-8 mr-3" alt="IESTP Motupe Logo"/>
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Producción Agropecuaria</span>
         </a>
         <button data-collapse-toggle="navbar-dropdown" type="button"
@@ -44,7 +44,7 @@
                          class="z-50 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
                         <ul class="py-2 text-sm text-gray-700 dark:text-gray-400" aria-labelledby="dropdownLargeButton">
                             <li>
-                                <a href="./modulo1/modulo1.php"
+                                <a href="modulo1.php"
                                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">I
                                     Módulo</a>
                             </li>
